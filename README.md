@@ -1,4 +1,4 @@
 # HelloWorld
-Esse é o meu primeiro código no github.
+Primeiro projeto JS .
 
 By Isabelle Rodrigues;
